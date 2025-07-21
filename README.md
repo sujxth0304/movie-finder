@@ -2,22 +2,22 @@
 This is a simple web application that allows users to search for movies, view movie details, and see a list of trending movies. This project was bootstrapped with Create React App.
 
 # ✨ Features
-Search for movies 🕵️‍♀️: Users can search for movies by title.
+- Search for movies 🕵️‍♀️: Users can search for movies by title.
 
-View movie details ℹ️: The application displays movie details such as the movie's title, rating, release year, and language.
+- View movie details ℹ️: The application displays movie details such as the movie's title, rating, release year, and language.
 
-Trending movies 🔥: The application displays a list of trending movies based on user searches.
+- Trending movies 🔥: The application displays a list of trending movies based on user searches.
 
-Responsive design 📱: The application is designed to be responsive and work on different screen sizes.
+- Responsive design 📱: The application is designed to be responsive and work on different screen sizes.
 
 # 🛠️ Technologies Used
-React
+- React
 
-Vite
+- Vite
 
-Tailwind CSS
+- Tailwind CSS
 
-Appwrite
+- Appwrite
 
-The Movie Database (TMDb) API
+* The Movie Database (TMDb) API
 
