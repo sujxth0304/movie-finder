@@ -1,3 +1,4 @@
+<img width="1891" height="848" alt="1" src="https://github.com/user-attachments/assets/5e8ab647-392e-4e71-9983-3fc5311e59dd" />
 # 🎬 Movie Finder 🍿
 This is a simple web application that allows users to search for movies, view movie details, and see a list of trending movies. This project was bootstrapped with Create React App.
 
