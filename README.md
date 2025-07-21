@@ -19,6 +19,6 @@ This is a simple web application that allows users to search for movies, view mo
 
 - Appwrite
 
-* The Movie Database (TMDb) API
+- The Movie Database (TMDb) API
 
 ![Vite React - Google Chrome 2025-07-21 15-07-14](https://github.com/user-attachments/assets/7d7cb153-87b5-4268-a2da-a948362e1219)
